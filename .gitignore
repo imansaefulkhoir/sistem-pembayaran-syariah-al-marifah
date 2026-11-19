@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment & secrets
+# Jangan pernah commit token bot, API key, atau kredensial apa pun.
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# ArsipGitHub-ready (bukan source; jangan masuk repo)
+*.zip
+
+# Runtime demo data (tautan Telegram, outbox, intent gateway, PDF kuitansi)
+# Jangan pernah commit data transaksi/kuitansi hasil uji coba.
+data/runtime/
+
+# Compiled test output (dibuat ulang oleh npm run test:*)
+scripts/**/out/
+
+# Coverage / cache
+coverage/
+.cache/
+.turbo/

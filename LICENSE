@@ -1,0 +1,36 @@
+Copyright (c) 2026 Pondok Pesantren Kebon Kelapa Al-Ma'rifah, Cirebon, Jawa Barat.
+
+SELURUH HAK DILINDUNGI (ALL RIGHTS RESERVED)
+
+Seluruh kode sumber, dokumentasi, desain, data contoh, dan aset lain dalam
+repositori ini adalah milik Pondok Pesantren Kebon Kelapa Al-Ma'rifah.
+
+Dengan ini diberikan izin terbatas kepada penerima salinan perangkat lunak ini
+untuk:
+
+1. menjalankan aplikasi ini secara lokal untuk keperluan evaluasi dan
+   pengembangan internal di lingkungan pondok;
+2. memodifikasi kode sumber untuk kebutuhan internal pondok.
+
+Dilarang keras, tanpa izin tertulis terlebih dahulu dari pemegang hak cipta:
+
+1. mendistribusikan, menjual, atau mempublikasikan ulang kode sumber ini,
+   baik dalam bentuk asli maupun yang telah dimodifikasi;
+2. menggunakan aplikasi ini untuk melayani pihak ketiga di luar lingkungan
+   Pondok Pesantren Kebon Kelapa Al-Ma'rifah;
+3. menghapus atau mengubah pemberitahuan hak cipta ini;
+4. menggunakan nama, logo, atau identitas pondok untuk tujuan komersial
+   tanpa persetujuan tertulis.
+
+PERANGKAT LUNAK INI DIBERIKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN,
+TERMASUK JAMINAN KELAYAKAN UNTUK TUJUAN TERTENTU. PEMEGANG HAK CIPTA TIDAK
+BERTANGGUNG JAWAB ATAS KERUGIAN, KESALAHAN PENCATATAN, ATAU KEBOCORAN DATA
+YANG TIMBUL DARI PENGGUNAAN APLIKASI INI.
+
+Catatan penting: repositori ini masih dalam mode demo/prototipe. Integrasi
+pembayaran, kuitansi, dan notifikasi Telegram nyata memerlukan konfigurasi
+tambahan dan pemeriksaan keamanan sebelum digunakan untuk transaksi sungguhan.
+Lihat `docs/pembayaran-otomatis.md` untuk detailnya.
+
+Untuk permintaan izin tertulis, hubungi pengelola sistem melalui kontak resmi
+pondok yang tercantum dalam aplikasi.

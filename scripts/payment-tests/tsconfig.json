@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "outDir": "./out",
+    "rootDir": "../.."
+  },
+  "include": [
+    "./run-tests.ts",
+    "../../src/lib/payments/state.ts",
+    "../../src/lib/payments/receipt.ts",
+    "../../src/lib/payments/service.ts",
+    "../../src/lib/payments/telegram.ts",
+    "../../src/lib/server/gateway.ts",
+    "../../src/lib/server/runtime-store.ts",
+    "../../src/lib/types.ts",
+    "../../src/lib/utils.ts"
+  ]
+}

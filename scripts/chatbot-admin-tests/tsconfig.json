@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "outDir": "./out",
+    "rootDir": "../.."
+  },
+  "include": [
+    "./run-tests.ts",
+    "../../src/lib/chatbot-admin/data.ts",
+    "../../src/lib/chatbot-admin/engine.ts",
+    "../../src/lib/chatbot-admin/intent.ts",
+    "../../src/lib/chatbot-admin/rbac.ts",
+    "../../src/lib/chatbot-admin/types.ts",
+    "../../src/lib/chatbot-tools.ts",
+    "../../src/lib/demo-data.ts",
+    "../../src/lib/store.ts",
+    "../../src/lib/types.ts",
+    "../../src/lib/utils.ts"
+  ]
+}

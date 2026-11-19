@@ -1,0 +1,101 @@
+No,NIS,Nama Santri,L/P,Usia,Kelas,Asal Daerah
+1,202401001,Muhammad Al-Fatih,L,16,X A,Cirebon
+2,202401002,Ahmad Dahlan Al-Ghifari,L,15,IX B,Kuningan
+3,202401003,Bilal Habasyi,L,14,VIII A,Majalengka
+4,202401004,Farhan Maulana,L,17,XI A,Indramayu
+5,202401005,Habibie Akbar,L,13,VII A,Brebes
+6,202401006,Ilham Ramadhan,L,16,X B,Tegal
+7,202401007,Jidan Nugraha,L,15,IX A,Subang
+8,202401008,Khalid Basalamah,L,18,XII A,Pekalongan
+9,202401009,Lukman Hakim,L,14,VIII B,Cilacap
+10,202401010,Muhamad Zidan,L,13,VII B,Banyumas
+11,202401011,Naufal Dzaki,L,17,XI B,Bandung
+12,202401012,Osama bin Fauzan,L,15,IX A,Garut
+13,202401013,Putra Pratama,L,16,X A,Tasikmalaya
+14,202401014,Qori Al-Baqir,L,18,XII B,Ciamis
+15,202401015,Rizky Fauzi,L,14,VIII A,Sumedang
+16,202401016,Salman Al-Farisi,L,13,VII A,Cirebon
+17,202401017,Thariq Ziyad,L,17,XI A,Kuningan
+18,202401018,Usman Affan,L,16,X B,Majalengka
+19,202401019,Vino Bastian,L,15,IX B,Indramayu
+20,202401020,Wahyu Hidayat,L,14,VIII B,Brebes
+21,202401021,Yusuf Mansur,L,18,XII A,Tegal
+22,202401022,Zubair Awwam,L,13,VII B,Pemalang
+23,202401023,Abdurrahman Auf,L,16,X A,Batang
+24,202401024,Bagas Kara,L,17,XI B,Kendal
+25,202401025,Candra Kirana,L,15,IX A,Semarang
+26,202401026,Dani Darmawan,L,14,VIII A,Demak
+27,202401027,Eko Prasetyo,L,18,XII B,Kudus
+28,202401028,Fajar Shiddiq,L,13,VII A,Pati
+29,202401029,Galang Pratama,L,16,X B,Rembang
+30,202401030,Hafizh Anshori,L,17,XI A,Blora
+31,202401031,Irfan Hakim,L,15,IX B,Grobogan
+32,202401032,Joko Susilo,L,14,VIII B,Boyolali
+33,202401033,Kurnia Sandi,L,18,XII A,Klaten
+34,202401034,Latief Hendra,L,13,VII B,Sukoharjo
+35,202401035,Malik Ibrahim,L,16,X A,Karanganyar
+36,202401036,Nizar Zulmi,L,17,XI B,Wonogiri
+37,202401037,Oki Setiawan,L,15,IX A,Sragen
+38,202401038,Pandu Wijaya,L,14,VIII A,Cirebon
+39,202401039,Qomaruddin,L,18,XII B,Kuningan
+40,202401040,Rasyid Ridho,L,13,VII A,Majalengka
+41,202401041,Syahrul Gunawan,L,16,X B,Indramayu
+42,202401042,Teguh Santoso,L,17,XI A,Brebes
+43,202401043,Umar Wirahadi,L,15,IX B,Tegal
+44,202401044,Vicky Prasetyo,L,14,VIII B,Pekalongan
+45,202401045,Wawan Hermawan,L,18,XII A,Batang
+46,202401046,Yahya Ayyash,L,13,VII B,Cilacap
+47,202401047,Zaky Mubarok,L,16,X A,Banyumas
+48,202401048,Aditya Pratama,L,17,XI B,Purbalingga
+49,202401049,Bima Arya,L,15,IX A,Banjarnegara
+50,202401050,Cahyo Utomo,L,14,VIII A,Kebumen
+51,202402001,Nurul Izzah Al-Husna,P,16,X A,Cirebon
+52,202402002,Aisyah Zahra Khairunnisa,P,15,IX B,Kuningan
+53,202402003,Fatimah Az-Zahra,P,14,VIII A,Majalengka
+54,202402004,Khadijah Al-Kubra,P,17,XI A,Indramayu
+55,202402005,Maryam Binti Imran,P,13,VII A,Brebes
+56,202402006,Zainab Binti Jahsy,P,16,X B,Tegal
+57,202402007,Hafsah Binti Umar,P,15,IX A,Subang
+58,202402008,Ruqayyah Al-Quraisy,P,18,XII A,Pekalongan
+59,202402009,Ummu Kultsum,P,14,VIII B,Cilacap
+60,202402010,Shafiyyah Huyay,P,13,VII B,Banyumas
+61,202402011,Maimunah Harits,P,17,XI B,Bandung
+62,202402012,Juwairiyah Harits,P,15,IX A,Garut
+63,202402013,Salma Binti Qais,P,16,X A,Tasikmalaya
+64,202402014,Asma Binti Abu Bakar,P,18,XII B,Ciamis
+65,202402015,Nusaibah Binti Ka'ab,P,14,VIII A,Sumedang
+66,202402016,Khaulah Binti Azwar,P,13,VII A,Cirebon
+67,202402017,Rumaisa Binti Milhan,P,17,XI A,Kuningan
+68,202402018,Syifa Binti Abdullah,P,16,X B,Majalengka
+69,202402019,Atikah Binti Zaid,P,15,IX B,Indramayu
+70,202402020,Hindun Binti Utbah,P,14,VIII B,Brebes
+71,202402021,Anisa Rahmawati,P,18,XII A,Tegal
+72,202402022,Bella Safitri,P,13,VII B,Pemalang
+73,202402023,Citra Dewi,P,16,X A,Batang
+74,202402024,Dian Permatasari,P,17,XI B,Kendal
+75,202402025,Erna Wulandari,P,15,IX A,Semarang
+76,202402026,Fitri Handayani,P,14,VIII A,Demak
+77,202402027,Gita Gutawa,P,18,XII B,Kudus
+78,202402028,Hani Amalia,P,13,VII A,Pati
+79,202402029,Intan Nuraini,P,16,X B,Rembang
+80,202402030,Juita Rahayu,P,17,XI A,Blora
+81,202402031,Kiki Fatmala,P,15,IX B,Grobogan
+82,202402032,Laila Majnun,P,14,VIII B,Boyolali
+83,202402033,Maya Sari,P,18,XII A,Klaten
+84,202402034,Nadia Vega,P,13,VII B,Sukoharjo
+85,202402035,Olga Lydia,P,16,X A,Karanganyar
+86,202402036,Putri Titian,P,17,XI B,Wonogiri
+87,202402037,Qisthina Nabilah,P,15,IX A,Sragen
+88,202402038,Rina Nose,P,14,VIII A,Cirebon
+89,202402039,Siti Badriah,P,18,XII B,Kuningan
+90,202402040,Tiara Andini,P,13,VII A,Majalengka
+91,202402041,Ulya Farhah,P,16,X B,Indramayu
+92,202402042,Vina Panduwinata,P,17,XI A,Brebes
+93,202402043,Wulan Guritno,P,15,IX B,Tegal
+94,202402044,Yuni Shara,P,14,VIII B,Pekalongan
+95,202402045,Zaskia Gotik,P,18,XII A,Batang
+96,202402046,Ainun Habibie,P,13,VII B,Cilacap
+97,202402047,Bunga Citra,P,16,X A,Banyumas
+98,202402048,Chelsea Olivia,P,17,XI B,Purbalingga
+99,202402049,Dewi Sandra,P,15,IX A,Banjarnegara
+100,202402050,Ersa Mayori,P,14,VIII A,Kebumen
